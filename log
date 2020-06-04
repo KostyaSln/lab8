@@ -1,0 +1,63 @@
+Using CATALINA_BASE:   "C:\Users\Igor\.IntelliJIdea2019.3\system\tomcat\Unnamed_Lab8"
+Using CATALINA_HOME:   "G:\apache-tomcat-9.0.35"
+Using CATALINA_TMPDIR: "G:\apache-tomcat-9.0.35\temp"
+Using JRE_HOME:        "G:\IntelliJ IDEA 2019.3.3\jbr"
+Using CLASSPATH:       "G:\apache-tomcat-9.0.35\bin\bootstrap.jar;G:\apache-tomcat-9.0.35\bin\tomcat-juli.jar"
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-May-2020 12:29:44.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.35
+19-May-2020 12:29:44.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 5 2020 20:36:20 UTC
+19-May-2020 12:29:44.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.35.0
+19-May-2020 12:29:44.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+19-May-2020 12:29:44.195 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+19-May-2020 12:29:44.195 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-May-2020 12:29:44.195 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             G:\IntelliJ IDEA 2019.3.3\jbr
+19-May-2020 12:29:44.195 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.5+10-b520.38
+19-May-2020 12:29:44.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            JetBrains s.r.o
+19-May-2020 12:29:44.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Igor\.IntelliJIdea2019.3\system\tomcat\Unnamed_Lab8
+19-May-2020 12:29:44.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         G:\apache-tomcat-9.0.35
+19-May-2020 12:29:44.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+19-May-2020 12:29:44.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+19-May-2020 12:29:44.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-May-2020 12:29:44.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Igor\.IntelliJIdea2019.3\system\tomcat\Unnamed_Lab8\conf\logging.properties
+19-May-2020 12:29:44.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-May-2020 12:29:44.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+19-May-2020 12:29:44.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+19-May-2020 12:29:44.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+19-May-2020 12:29:44.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\Igor\.IntelliJIdea2019.3\system\tomcat\Unnamed_Lab8\jmxremote.password
+19-May-2020 12:29:44.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\Igor\.IntelliJIdea2019.3\system\tomcat\Unnamed_Lab8\jmxremote.access
+19-May-2020 12:29:44.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+19-May-2020 12:29:44.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-May-2020 12:29:44.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-May-2020 12:29:44.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-May-2020 12:29:44.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Igor\.IntelliJIdea2019.3\system\tomcat\Unnamed_Lab8
+19-May-2020 12:29:44.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=G:\apache-tomcat-9.0.35
+19-May-2020 12:29:44.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=G:\apache-tomcat-9.0.35\temp
+19-May-2020 12:29:44.212 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+19-May-2020 12:29:44.213 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+19-May-2020 12:29:44.213 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+19-May-2020 12:29:45.297 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+19-May-2020 12:29:47.143 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-May-2020 12:29:47.434 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [9 742] milliseconds
+19-May-2020 12:29:47.870 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-May-2020 12:29:47.870 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.35]
+19-May-2020 12:29:48.019 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-May-2020 12:29:48.194 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [759] milliseconds
+Connected to server
+19-May-2020 12:29:54.046 WARNING [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [159] milliseconds.
+qwerty
+qwerty
+19-May-2020 12:29:58.210 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [G:\apache-tomcat-9.0.35\webapps\manager]
+19-May-2020 12:29:59.684 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [G:\apache-tomcat-9.0.35\webapps\manager] has finished in [1 474] ms
+qwerty
+Using CATALINA_BASE:   "C:\Users\Igor\.IntelliJIdea2019.3\system\tomcat\Unnamed_Lab8"
+Using CATALINA_HOME:   "G:\apache-tomcat-9.0.35"
+Using CATALINA_TMPDIR: "G:\apache-tomcat-9.0.35\temp"
+Using JRE_HOME:        "G:\IntelliJ IDEA 2019.3.3\jbr"
+Using CLASSPATH:       "G:\apache-tomcat-9.0.35\bin\bootstrap.jar;G:\apache-tomcat-9.0.35\bin\tomcat-juli.jar"
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-May-2020 12:31:21.869 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+19-May-2020 12:31:21.869 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-May-2020 12:31:21.971 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-May-2020 12:31:22.062 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-May-2020 12:31:22.072 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+Disconnected from server
